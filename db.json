@@ -378,6 +378,11 @@
       "content": "Etiam varius in erat id euismod. Fusce nisl justo, facilisis in egestas tristique, placerat fringilla augue. Curabitur gravida, massa ut consequat fermentum, dolor tellus dapibus purus, eu bibendum nulla ex convallis leo. Nunc elit nunc, tristique a nunc ut, fringilla semper dolor. Fusce mollis ut velit id imperdiet."
     }
   ],
+  "clase": [{
+      "id": 123,
+      "name": "Introducción al curso React desde cero",
+      "video": "48157338"
+  }],
   "curso": [{
     "id": 1,
     "name": "React.js Desde Cero",
